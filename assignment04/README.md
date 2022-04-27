@@ -13,14 +13,15 @@ UX storytelling allows designers and researchers to think about the user's persp
 <img width="482" alt="Screen Shot 2022-04-26 at 9 38 58 PM" src="https://user-images.githubusercontent.com/19422176/165441889-0876d5e2-a9aa-41e8-8c7c-819b7d93fb0b.png">
 
 #### Scenario and Journey Map
+**PROPOSED FEATURE**: The user can filter more options when looking at instructors and courses. Some new filters would be "beginner," "intermediate," "advanced."
 
+**SCENARIO**
 WHY:
 Matthew wants to have something creative to do after work. He has always wanted to learn how to play the guitar, but he has no experience with music. He knows that he can't teach himself how to play, and he struggles with online resources such as sheet music and YouTube videos. 
 
 HOW:
 He searches online for private guitar lessons, and finds LessonFace. He doesn't know much about music, so he clicks on the first button available to him: the search bar, and searches "guitar." The results page has a filter option "beginner" that he selects. From here, he finds an instructor.
 
-PROPOSED FEATURE: "beginner" filter (along with other levels).
 
 <img width="865" alt="Screen Shot 2022-04-26 at 9 41 42 PM" src="https://user-images.githubusercontent.com/19422176/165442148-5f29ccf5-0c14-494d-a0ff-5ccaf2d39635.png">
 
@@ -34,13 +35,15 @@ PROPOSED FEATURE: "beginner" filter (along with other levels).
 <img width="484" alt="Screen Shot 2022-04-26 at 9 39 31 PM" src="https://user-images.githubusercontent.com/19422176/165441935-fccaffab-e4b1-42ef-b86f-bc16613318b9.png">
 
 ### Scenario and Journey Map
+**PROPOSED FEATURE**: On the home page, there are simple options that a user can select. Some options would be "one on one lessons," "group courses," and "seminars." The user selects which one they are interested in, and then they are led to more options, like which instrument they're interested in, etc. 
+
+**SCENARIO**
 WHY:
 Pierre is always exhausted when he gets home from work. He lives alone and just moved to a new city. He wants something fun and social he can do from the comfort of his own home. He decides that he wants to learn how to play an instrument so he can eventually meet up with people and play. He doesn't have much instrument experience, so he finds LessonFace. He is looking for group beginner courses.
 
 HOW:
 From the options on the home page, Pierre clicks on "group lessons" and then filters "beginner" on the results page. From here, he can scroll through the available online group courses beginning at different times, and select one.
 
-PROPOSED FEATURE: set of simple options on the home page, "group courses" being one of them.
 
 <img width="866" alt="Screen Shot 2022-04-26 at 9 41 56 PM" src="https://user-images.githubusercontent.com/19422176/165442175-9367fde7-8f40-4d5f-8052-f69bbb9a3176.png">
 
