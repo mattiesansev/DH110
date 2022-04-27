@@ -14,7 +14,8 @@ Pierre is a hard-working teacher who is looking for a new hobby to help reduce h
 <img width="482" alt="Screen Shot 2022-04-26 at 9 38 58 PM" src="https://user-images.githubusercontent.com/19422176/165441889-0876d5e2-a9aa-41e8-8c7c-819b7d93fb0b.png">
 
 ### Scenario and Journey Map
-<img width="358" alt="Screen Shot 2022-04-26 at 9 40 07 PM" src="https://user-images.githubusercontent.com/19422176/165441985-c610c1f1-5aeb-4920-a8c3-cae5d7bbce98.png">
+<img width="865" alt="Screen Shot 2022-04-26 at 9 41 42 PM" src="https://user-images.githubusercontent.com/19422176/165442148-5f29ccf5-0c14-494d-a0ff-5ccaf2d39635.png">
+
 
 
 ## Persona 2: Pierre Perez, Stressed Mid-life Crisis
@@ -25,7 +26,7 @@ Pierre is a hard-working teacher who is looking for a new hobby to help reduce h
 <img width="484" alt="Screen Shot 2022-04-26 at 9 39 31 PM" src="https://user-images.githubusercontent.com/19422176/165441935-fccaffab-e4b1-42ef-b86f-bc16613318b9.png">
 
 ### Scenario and Journey Map
-<img width="356" alt="Screen Shot 2022-04-26 at 9 40 20 PM" src="https://user-images.githubusercontent.com/19422176/165442008-09abd583-c63c-425b-a347-a5604db41f97.png">
+<img width="866" alt="Screen Shot 2022-04-26 at 9 41 56 PM" src="https://user-images.githubusercontent.com/19422176/165442175-9367fde7-8f40-4d5f-8052-f69bbb9a3176.png">
 
 
 https://www.figma.com/file/EfoXIOWucmm3aWLR5WxPcL/Untitled?node-id=0%3A1
