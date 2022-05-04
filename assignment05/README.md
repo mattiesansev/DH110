@@ -27,7 +27,7 @@ This wireframe shows what the quiz page functionality might look like. The quiz 
 This wireframe shows what the Achievements page on the profile dashboard might look like. The achievements page allows users to feel accomplished as they complete their lessons.
 
 ## Wireflows
-All wireflows can be found (https://whimsical.com/wireframes-UGJCx84rRQLfGJkHRZzRwx)[here].
+All wireflows can be found [here](https://whimsical.com/wireframes-UGJCx84rRQLfGJkHRZzRwx).
 
 <img width="636" alt="Screen Shot 2022-05-04 at 1 45 15 PM" src="https://user-images.githubusercontent.com/19422176/166822936-5e4cf583-8d7a-4d49-9dde-b686c700e561.png">
 <img width="484" alt="Screen Shot 2022-05-04 at 1 45 31 PM" src="https://user-images.githubusercontent.com/19422176/166822982-acc52947-a6bd-4274-b4ff-6bb2d40a441a.png">
