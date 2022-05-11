@@ -36,12 +36,11 @@ Description of your decision making process about the final graphical interface 
 Evidence of impression test
 
 ## Accessibility Check
-Evidence of accessibility (color-contrast at least) check
+I performed color contrast checks on the typography colors over the different backgrounds. At first, not all of my combinations passed the test. I then returned to Adobe Color and experimented with different colors until I passed the accessibility checks. 
+
 <img width="556" alt="Screen Shot 2022-05-11 at 10 15 03 AM" src="https://user-images.githubusercontent.com/19422176/167908434-639c501d-2a9b-4929-92ee-90001d56b8c6.png">
 <img width="396" alt="Screen Shot 2022-05-11 at 10 18 53 AM" src="https://user-images.githubusercontent.com/19422176/167909014-a1971f4c-0b25-477a-8f3e-197ee7fe5036.png">
 <img width="397" alt="Screen Shot 2022-05-11 at 10 22 17 AM" src="https://user-images.githubusercontent.com/19422176/167909535-a0891c12-9ace-48ad-aedf-0bd330a6ecb9.png">
 
 ## Links
-The interface design page can be found here:
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fm8nLvhrJSTITOwacaDiDyf%2Finterfacedesign%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+The interface design page can be found [here](https://www.figma.com/file/m8nLvhrJSTITOwacaDiDyf/interfacedesign?node-id=0%3A1).
