@@ -33,7 +33,9 @@ The digitized wireflow can be found [here](https://whimsical.com/wireframes-UGJC
 Description of your decision making process about the final graphical interface design
 
 ## Impression Test
-Evidence of impression test
+The evidence of the five-second impressions test can be found [here](https://drive.google.com/file/d/10HyLLIR48fIKKJJ8MCT9krMMkPav-tus/view?usp=sharing).
+
+### Conclusions from test
 
 ## Accessibility Check
 I performed color contrast checks on the typography colors over the different backgrounds. At first, not all of my combinations passed the test. I then returned to Adobe Color and experimented with different colors until I passed the accessibility checks. 
